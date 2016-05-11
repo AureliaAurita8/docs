@@ -1,5 +1,5 @@
 ---
-title: Gantry 5
+title: Gleim Pianos
 taxonomy:
     category: docs
     tag: [gantry5]
@@ -10,4 +10,4 @@ taxonomy:
 
 # Gantry 5
 
-A Complete Guide to the Gantry 5 Framework
+Creating the highest quality pianos around since 1770
